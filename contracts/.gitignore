@@ -1,0 +1,13 @@
+# Scarb build artifacts
+target/
+
+# Sncast accounts (contains private keys)
+accounts.json
+starknet_accounts.json
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
